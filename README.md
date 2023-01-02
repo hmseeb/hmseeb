@@ -3,7 +3,7 @@
 ```javascript
 const haseeb = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java, C++, Flutter],
+  code: [Javascript, HTML, CSS, Python, Java, C++, Swift],
   tools: [Flutter, React, Node],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
