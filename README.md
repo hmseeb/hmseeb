@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ```javascript
-const thai = {
+const haseeb = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java, C++, Flutter],
   tools: [Flutter, React, Node],
