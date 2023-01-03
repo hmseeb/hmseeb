@@ -9,10 +9,9 @@ const haseeb = {
   code: [Javascript, HTML, CSS, Python, Java, C++, Swift],
   tools: [Flutter, React, Node],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  Communities: {
+                        speaker: "Andrew Tate",
+                        mentor: "Vandad"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Flutter"
 }
