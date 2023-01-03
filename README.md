@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A passionate native developer from Pakistan</h3>
 
 ## 💫 About me
 
