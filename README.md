@@ -10,7 +10,7 @@ const haseeb = {
   tools: [Flutter, React, Node],
   architecture: ["microservices", "event-driven", "design system pattern"],
   Communities: {
-                        speaker: "Andrew Tate",
+                        speaker: "Tuaha ibn Jalil",
                         mentor: "Vandad"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Flutter"
