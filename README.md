@@ -13,7 +13,7 @@ const haseeb = {
                         speaker: "who tf needs a motivation",
                         mentor: "My Future Self"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Flutter"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Flutter". (no cap)
 }
 ```
 
