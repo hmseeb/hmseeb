@@ -11,7 +11,7 @@ const haseeb = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   Communities: {
                         speaker: "Tuaha ibn Jalil",
-                        mentor: "Vandad"
+                        mentor: "Muhammad ﷺ"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Flutter"
 }
