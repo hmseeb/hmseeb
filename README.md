@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Haseeb</h1>
-<h3 align="center">A passionate native developer from Pakistan</h3>
 <p align="center">
 <img src="https://svgshare.com/i/pMN.svg"/> </a> 
-</p>
+</p><h1 align="center">Hi 👋, I'm Haseeb</h1>
+<h3 align="center">A passionate native developer from Pakistan</h3>
+
 ## 💫 About me
         
 ```javascript
