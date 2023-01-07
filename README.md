@@ -5,8 +5,6 @@
 <p align="center">
 <a href="https://discord.com/users/706909903482257509" target="_blank">
   <img src="https://lanyard-profile-readme.vercel.app/api/706909903482257509?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </a>
   </p>
 <div align="center">
@@ -54,7 +52,8 @@ const haseeb = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+ ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
 </div>
 
