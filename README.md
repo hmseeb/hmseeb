@@ -43,8 +43,8 @@ const haseeb = {
   </a>
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmseeb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmseeb&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmseeb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&stroke=0000&background=060b0d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmseeb&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&stroke=0000&background=060b0d"/>
 </div>
 
 <p align="center"> 
