@@ -7,7 +7,7 @@
 </a>
   </p>
   
-### 💫 About me
+## 💫 About me
         
 ```javascript
 const haseeb = {
