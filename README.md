@@ -39,7 +39,7 @@ const haseeb = {
 ## 📊 GitHub Stats
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=Adivise&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=hmseeb&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <div align="center">
