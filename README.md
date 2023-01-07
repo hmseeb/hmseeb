@@ -4,7 +4,7 @@
 <p align="center">
 
 <a href="https://dsc.bio/nanotect">
-  <img src="https://svgshare.com/i/pMN.svg" />
+  <img src="https://svgshare.com/i/pPG.svg" />
 </a>
 </p>
 ## 💫 About me
