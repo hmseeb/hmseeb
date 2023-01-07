@@ -44,7 +44,7 @@ const haseeb = {
 </div>
 
 <p align="center"> 
-![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=31loip7uqgo2yc63fvhlg642xvue)
+  <a href="https://open.spotify.com/user/31loip7uqgo2yc63fvhlg642xvue" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31loip7uqgo2yc63fvhlg642xvue"/> </a> 
 </p>
 
 <div align="center">
