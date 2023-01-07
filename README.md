@@ -52,8 +52,8 @@ const haseeb = {
 
 <div align="center">
   
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+ ![snake gif](https://github.com/hmseeb/hmseeb/blob/output/github-contribution-grid-snake.gif)
+
   
 </div>
 
