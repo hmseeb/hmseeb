@@ -43,9 +43,8 @@ const haseeb = {
     </a>
 </p>
 <div align="center">
-  <a href="https://github.com/Adivise">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmseeb&show_icons=true&theme=black-ice&hide_border=true&stroke=0000&background=060b0d&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmseeb&layout=compact&langs_count=7&&theme=black-ice&hide_border=true&stroke=0000&background=060b0d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adivise&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adivise&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <p align="center"> 
