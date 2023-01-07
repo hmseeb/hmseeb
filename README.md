@@ -1,12 +1,12 @@
 <p align="center">
 <img src="https://svgshare.com/i/pMN.svg"/>
 </p>
-<p align="center">
+<!-- <p align="center">
 <a href="https://discord.com/users/706909903482257509" target="_blank">
   <img src="https://lanyard-profile-readme.vercel.app/api/706909903482257509?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
-<!--     <img src="https://lanyard.cnrad.dev/api/706909903482257509" /> -->
+
 </a>
-  </p>
+  </p> -->
   
 ## 💫 About me
         
