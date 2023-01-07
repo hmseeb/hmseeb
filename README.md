@@ -13,6 +13,12 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/hmseeb" alt="Profile Forks"></a>
 </div>
   
+<div align="center">
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/hmseeb/hmseeb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+  
+</div>
 ## 💫 About me
         
 ```javascript
@@ -49,13 +55,6 @@ const haseeb = {
 <p align="center"> 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31loip7uqgo2yc63fvhlg642xvue"/> 
 </p>
-
-<div align="center">
-  
-![github contribution grid snake animation](https://raw.githubusercontent.com/hmseeb/hmseeb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-  
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
