@@ -39,13 +39,13 @@ const haseeb = {
 ## 📊 GitHub Stats
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=hmseeb&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=hmseeb&theme=black-ice&hide_border=true&stroke=0000&background=060b0d"/>
     </a>
 </p>
 <div align="center">
   <a href="https://github.com/Adivise">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmseeb&show_icons=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmseeb&layout=compact&langs_count=7&&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmseeb&show_icons=true&theme=black-ice&hide_border=true&stroke=0000&background=060b0d&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmseeb&layout=compact&langs_count=7&&theme=black-ice&hide_border=true&stroke=0000&background=060b0d"/>
 </div>
 
 <p align="center"> 
