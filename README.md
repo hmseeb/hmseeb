@@ -23,7 +23,7 @@ const haseeb = {
   tools: [Flutter, React, Node],
   architecture: ["microservices", "event-driven", "design system pattern"],
   Communities: {
-                        speaker: "who tf needs a motivation",
+                        speaker: "Who tf needs a motivation",
                         mentor: "My Future Self"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Flutter. (no cap)" 
