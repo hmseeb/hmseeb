@@ -1,9 +1,11 @@
 <p align="center">
 <img src="https://svgshare.com/i/pMN.svg"/>
 </p>
+<p align="center">
 <a href="https://discord.com/users/706909903482257509">
   <img src="https://lanyard-profile-readme.vercel.app/api/706909903482257509?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
 </a>
+  </p>
 ## 💫 About me
         
 ```javascript
