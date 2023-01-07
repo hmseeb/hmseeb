@@ -47,15 +47,13 @@ const haseeb = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmseeb&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&stroke=0000&background=060b0d"/>
 </div>
 
+
+<div align="center">
+![github contribution grid snake animation](https://raw.githubusercontent.com/hmseeb/hmseeb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+</div>
 <p align="center"> 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31loip7uqgo2yc63fvhlg642xvue"/> 
 </p>
-<div align="center">
-  
-![github contribution grid snake animation](https://raw.githubusercontent.com/hmseeb/hmseeb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-  
-</div>
 ## ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
