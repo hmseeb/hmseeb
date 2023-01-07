@@ -1,12 +1,7 @@
 <p align="center">
 <img src="https://svgshare.com/i/pMN.svg"/> </a>
 </p>
-<p align="center">
 
-<a href="https://dsc.bio/nanotect">
-  <img src="https://svgshare.com/getbyhash/sha1-fAoUkAfazQ+Dl87eBZilhf+rlsY=" />
-</a>
-</p>
 ## 💫 About me
         
 ```javascript
