@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://discord.com/users/706909903482257509" target="_blank">
   <img src="https://lanyard-profile-readme.vercel.app/api/706909903482257509?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
-
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 </a>
   </p>
 <div align="center">
