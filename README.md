@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://svgshare.com/i/pMN.svg"/> </a>
+<img src="https://svgshare.com/i/pMN.svg"/>
 </p>
 <p align="center">
-<img src="[https://svgshare.com/i/pMN.svg](https://lanyard-profile-readme.vercel.app/api/706909903482257509?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)"/> </a>
+<img src="[https://svgshare.com/i/pMN.svg](https://lanyard-profile-readme.vercel.app/api/706909903482257509?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)"/> 
 </p>
 ## 💫 About me
         
