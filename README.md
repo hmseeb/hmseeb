@@ -52,7 +52,8 @@ const haseeb = {
 
 <div align="center">
   
-![Snake animation](https://github.com/hmseeb/hmseeb/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/hmseeb/hmseeb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
   
 </div>
 
