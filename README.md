@@ -49,7 +49,7 @@ const haseeb = {
 </div>
 
 <p align="center"> 
-  <a href="https://open.spotify.com/user/31loip7uqgo2yc63fvhlg642xvue" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31loip7uqgo2yc63fvhlg642xvue"/> </a> 
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31loip7uqgo2yc63fvhlg642xvue"/> 
 </p>
 
 <div align="center">
