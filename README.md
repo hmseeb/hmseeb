@@ -1,8 +1,12 @@
 <p align="center">
-<img src="https://svgshare.com/i/pMN.svg"/> </a> 
-</p><h1 align="center">Hi 👋, I'm Haseeb</h1>
-<h3 align="center">A passionate native developer from Pakistan</h3>
+<img src="https://svgshare.com/i/pMN.svg"/> </a>
+</p>
+<p align="center">
 
+<a href="https://dsc.bio/nanotect">
+  <img src="https://svgshare.com/i/pMN.svg" />
+</a>
+</p>
 ## 💫 About me
         
 ```javascript
