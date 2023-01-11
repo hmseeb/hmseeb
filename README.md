@@ -50,7 +50,7 @@ const haseeb = {
 ![github contribution grid snake animation](https://raw.githubusercontent.com/hmseeb/hmseeb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <p align="center"> 
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31loip7uqgo2yc63fvhlg642xvue"/> 
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31loip7uqgo2yc63fvhlg642xvue&unique=true"/> 
 </p>
 
 ## ✍️ Random Dev Quote
