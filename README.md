@@ -20,7 +20,7 @@
 final haseeb = {
   'pronouns': ['he', 'him'],
   'languages': ['Javascript', 'HTML', 'CSS', 'Python', 'Java', 'C++', 'Swift'],
-  'tools': ['Flutter', 'React', 'Node', 'Tenserflow],
+  'tools': ['Flutter', 'React', 'Node', 'Tenserflow'],
   'architecture': ['microservices', 'event-driven', 'design system pattern'],
   'Communities': {
     'speaker': 'Who tf needs a motivation',
