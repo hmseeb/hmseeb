@@ -19,14 +19,14 @@
 ```dart
 final haseeb = {
   'pronouns': ['he', 'him'],
-  'code': ['Javascript', 'HTML', 'CSS', 'Python', 'Java', 'C++', 'Swift'],
-  'tools': ['Flutter', 'React', 'Node'],
+  'languages': ['Javascript', 'HTML', 'CSS', 'Python', 'Java', 'C++', 'Swift'],
+  'tools': ['Flutter', 'React', 'Node', 'Tenserflow],
   'architecture': ['microservices', 'event-driven', 'design system pattern'],
   'Communities': {
     'speaker': 'Who tf needs a motivation',
     'mentor': 'My Future Self',
   },
-  'challenge': 'I am doing the #100DaysOfCode challenge focused on Flutter. (no cap)',
+  'challenge': 'Creating innovative solutions that solve real world problems.',
 };
 ```
 
