@@ -48,7 +48,7 @@ const haseeb = {
 </div> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hmseeb/hmseeb/d031f6e43098cb160f30cd404d61d8db3696f9d9/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://github.com/hmseeb/hmseeb/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/hmseeb/hmseeb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
