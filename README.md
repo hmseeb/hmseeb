@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Haseeb, The Founder of [Legistech](https://legistech.dev)
+I'm Haseeb, Founder of [Legistech](https://legistech.dev)
 
 - 🔭 Currently working remotely
 - 📫 Reach me: haseeb@legistech.dev
