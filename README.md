@@ -17,4 +17,4 @@ I'm Haseeb, a 20 years old flutter developer from Pakistan.
 ## Contact
 - [hmseeb](https://hmseeb.github.io)
 - [@hmseeb](https://www.linkedin.com/in/hmseeb/) on Linkedin
-- [hmseeb](./) on Discord
+- [@hmseeb](https://discord.com/users/706909903482257509) on Discord
