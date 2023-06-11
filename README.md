@@ -1,9 +1,20 @@
-### Hello 👋
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haseeb&nbsp;Azhar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</h1>
 
-I'm Haseeb, Founder of [Legistech](https://legistech.dev)
+## Hey! 👋
+I'm Haseeb, a 20 years old flutter developer from Pakistan.
 
-- 🔭 Currently working remotely
-- 📫 Reach me: haseeb@legistech.dev
-- 🎤 I speak: Python, Dart, JS
-- 💗 I love: Functional Programming
-- ⚡ Currently focused on Flutter
+- 🧭 Founder at [@legistech](https://github.com/legistech)
+
+- 👥 Core team member at [@techouse](https://www.upwork.com/ag/techouse)
+
+## Skills
+- 👨‍💻 Dart, Python, Java, Javascript, C++
+- ⚙️ Flutter, React, SwiftUI, JavaFX, SwingUI, 
+- 💽 MySQL, SQL, Mongo, Firebase
+
+## Contact
+- [hmseeb](https://hmseeb.github.io)
+- [@hmseeb](https://www.linkedin.com/in/hmseeb/) on Linkedin
+- [hmseeb](./) on Discord
