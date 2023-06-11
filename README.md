@@ -11,7 +11,7 @@ I'm Haseeb, a 20 years old flutter developer from Pakistan.
 
 ## Skills
 - 👨‍💻 Dart, Python, Java, Javascript, C++
-- ⚙️ Flutter, React, SwiftUI, JavaFX, SwingUI, 
+- ⚙️ Flutter, React, SwiftUI, JavaFX 
 - 💽 MySQL, SQL, Mongo, Firebase
 
 ## Contact
