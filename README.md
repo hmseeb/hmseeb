@@ -12,7 +12,7 @@ I'm Haseeb, a 20 years old flutter developer from Pakistan.
 ## Skills
 - 👨‍💻 Dart, Python, Java, Javascript, C++
 - ⚙️ Flutter, React Native, SwiftUI, JavaFX 
-- 💽 MySQL, SQL, Mongo, Firebase
+- 💽 MySQL, Mongo, Firebase
 
 ## Contact
 - [hmseeb](https://hmseeb.github.io)
